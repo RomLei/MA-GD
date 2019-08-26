@@ -1,0 +1,2 @@
+the final R is0.23154
+the max R is 0.23154; the min R is 0.23154

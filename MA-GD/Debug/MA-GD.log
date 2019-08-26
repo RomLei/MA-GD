@@ -1,0 +1,26 @@
+﻿  computeR.cpp
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(228): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(230): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(263): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(266): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(278): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(305): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(310): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(320): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(331): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(391): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(470): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(457): warning C4101: “random_p”: 未引用的局部变量
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(481): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(482): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(486): warning C4018: “<”: 有符号/无符号不匹配
+i:\ma-gd\ma-gd\ma-gd\computer.cpp(487): warning C4018: “<”: 有符号/无符号不匹配
+  MA-GD.vcxproj -> I:\MA-GD\MA-GD\Debug\MA-GD.exe
